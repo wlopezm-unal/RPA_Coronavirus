@@ -1,2 +1,3 @@
 # RPA_Coronavirus
-RPA que automatiza la búsqueda y descarga de graficas de diferentes paises en torno a los casos confirmados y las muertes confirmadas, desde el año 2020 hasta la fecha actual
+RPA that automates the search and download of graphs from different countries around the confirmed cases and confirmed deaths, from 2020 to the current date.
+Link to all the information : https://ourworldindata.org 
